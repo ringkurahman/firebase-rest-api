@@ -2,7 +2,7 @@
 > Backend API for FireAuth application, which is a authentication app.
 
 ## Backend: 
-Node js, Express js, Nodemon, Dotenv, Cors, Colors js, morgan
+Node js, Express js, Firebase, Nodemon, Dotenv, Cors, Colors js, morgan
 
 ## Install Dependencies
 ```
